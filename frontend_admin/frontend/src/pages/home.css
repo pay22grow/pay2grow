@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+.space-mono {
+  font-family: 'Space Mono', monospace;
+  font-size: 18px;
+}
+.space-mini {
+    font-family: 'Space Mono', monospace;
+    font-size: 20px;
+  }
+
+  .space-micro{
+    font-family: 'Space Mono', monospace;
+  }
